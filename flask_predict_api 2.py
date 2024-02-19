@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Fri Mar 16 21:06:35 2018
 
-@author: vivekkalyanarangan
 """
 
 import pickle
